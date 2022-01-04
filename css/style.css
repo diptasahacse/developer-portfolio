@@ -24,6 +24,8 @@ h1{
 }
 .paragraph{
     color: dimgray;
+    word-spacing: 3px;
+    line-height: 20px;
 }
 .center{
     width: 1200px;
