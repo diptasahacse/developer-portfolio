@@ -102,3 +102,13 @@ h2{
     line-height: 22px;
     color: dimgray;
 }
+.first-letter-style::first-letter{
+    font-size: 70px;
+    color: orange;
+    
+}
+.after-effect::after{
+    content: "...";
+    font-size: 50px;
+    color: orange;
+}
